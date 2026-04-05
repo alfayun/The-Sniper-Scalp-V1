@@ -14,9 +14,12 @@ To protect the intellectual property and ensure this powerful tool remains exclu
 Download the `The_Sniper_Scalp_V1_13.zip` file from this repository.
 
 ### **Step 2: Enter the Secret Password**
-When extracting the file, you will be prompted for a password. 
-* **The Password is:** The **5th word** on **Page 50** of the book (*The Sniper Scalp V1*).
-* **Format:** Case-sensitive. Please type it exactly as it appears in the printed/digital text.
+
+When extracting the file, you will be prompted for a password.
+
+The Password is: The 5th word in the first sentence of Chapter 10 (The Grand Finale) of the book The Sniper Scalp V1.
+
+Format: Lowercase. Please type the word exactly as it appears in the text.
 
 ---
 
